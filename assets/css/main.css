@@ -3330,7 +3330,7 @@ input[type=color] {
   border-radius: 50%;
   display: inline-block;
   transform: translateY(-2px);
-  background-color: var(--tp-common-white);
+  background-color: var(--tp-common-black);
 }
 .tp-section-subtitle-clash {
   font-size: 14px;

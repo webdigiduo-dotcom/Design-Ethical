@@ -1,1 +1,4 @@
-.txt-drk{color: #000;}
+.txt-drk, .tp-section-title.fs-44, .tp-section-subtitle{color: #000 !important;}
+.creative-blog-title-sm {color: var(--tp-common-black);}
+.creative-blog-meta span{    color: var(--tp-text-body);}
+
