@@ -5816,7 +5816,7 @@ body.tp-magic-cursor #magic-cursor {
   position: absolute;
   top: 100%;
   left: 0;
-  width: 260px;
+  width: 300px;
   z-index: 99;
   opacity: 0;
   padding: 12px 0;
