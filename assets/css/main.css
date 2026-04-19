@@ -3232,7 +3232,7 @@ input[type=color] {
   font-size: 220px;
   line-height: 0.9;
   margin-bottom: 0;
-  letter-spacing: -0.08em;
+  letter-spacing: -2.2px;
   text-transform: uppercase;
   color: var(--tp-common-white);
 }
@@ -3243,7 +3243,7 @@ input[type=color] {
 }
 @media only screen and (min-width: 1400px) and (max-width: 1599px) {
   .tp-hero-title {
-    font-size: 160px;
+    font-size: 90px;
   }
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
@@ -4749,7 +4749,7 @@ body.tp-magic-cursor #magic-cursor {
   width: 14px;
   display: block;
   margin-left: 0;
-  background-color: var(--tp-common-white);
+  background-color: #000;
 }
 .tp-header-bar button i:not(:last-of-type) {
   margin: 6px auto;
@@ -13124,7 +13124,7 @@ body.tp-magic-cursor #magic-cursor {
 }
 
 .studio-hero-bg {
-  padding-top: 320px;
+  padding-top: 150px;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .studio-hero-bg {
@@ -17843,7 +17843,7 @@ body.tp-magic-cursor #magic-cursor {
   }
 }
 .tp-service-content .tp-service-btn {
-  margin-bottom: 90px;
+  margin-bottom: 30px;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 768px) and (max-width: 991px) {
   .tp-service-content .tp-service-btn {
@@ -18399,7 +18399,7 @@ body.tp-magic-cursor #magic-cursor {
   background-color: var(--tp-common-red);
 }
 .studio-service-item-wrap .tp-award-text {
-  font-size: 36px;
+  font-size: 30px;
   color: var(--tp-common-cream);
   font-family: var(--tp-ff-clash-medium);
 }
@@ -19410,7 +19410,7 @@ body.tp-magic-cursor #magic-cursor {
 }
 .inner-service-1-left ul li span {
   font-weight: 600;
-  font-size: 20px;
+  font-size: 16px;
   line-height: 1;
   color: #ff535b;
   letter-spacing: 0.02em;
