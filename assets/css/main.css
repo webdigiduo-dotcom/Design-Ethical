@@ -3229,7 +3229,7 @@ input[type=color] {
 /*----------------------------------------*/
 .tp-hero-title {
   font-weight: 700;
-  font-size: 220px;
+  font-size: 120px;
   line-height: 0.9;
   margin-bottom: 0;
   letter-spacing: -2.2px;
@@ -3238,7 +3238,7 @@ input[type=color] {
 }
 @media only screen and (min-width: 1600px) and (max-width: 1700px) {
   .tp-hero-title {
-    font-size: 180px;
+    font-size: 120px;
   }
 }
 @media only screen and (min-width: 1400px) and (max-width: 1599px) {
@@ -3254,7 +3254,7 @@ input[type=color] {
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .tp-hero-title {
-    font-size: 140px;
+    font-size: 120px;
   }
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -5816,7 +5816,7 @@ body.tp-magic-cursor #magic-cursor {
   position: absolute;
   top: 100%;
   left: 0;
-  width: 300px;
+  width: 380px;
   z-index: 99;
   opacity: 0;
   padding: 12px 0;
