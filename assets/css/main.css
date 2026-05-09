@@ -3243,7 +3243,7 @@ input[type=color] {
 }
 @media only screen and (min-width: 1400px) and (max-width: 1599px) {
   .tp-hero-title {
-    font-size: 90px;
+    font-size: 160px;
   }
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
